@@ -1,6 +1,6 @@
-# NNequiv_Experiments
+#  Neural Network Equivalence Checking
 
-This repository contains the experimental results for our paper "On Neural Network Equivalence Checking using SMT solvers"
+This repository contains the experimental results for the paper "On Neural Network Equivalence Checking using SMT solvers"
 
 
 ## Software Installation #
